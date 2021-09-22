@@ -1,0 +1,7 @@
+module.exports = {
+	parser: 'typescript',
+	singleQuote: true,
+	jsxSingleQuote: true,
+	semi: false,
+	trailingComma: 'all',
+}
